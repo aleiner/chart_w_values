@@ -1,0 +1,7 @@
+tetris:
+  ingress:
+    hosts:
+      - host: tetris.10.7.2.72.sslip.io
+        paths:
+          - path: /
+            pathType: ImplementationSpecific
