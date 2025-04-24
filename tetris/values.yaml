@@ -1,4 +1,5 @@
 tetris:
+  title: Ernie Present's
   ingress:
     hosts:
       - host: tetris.10.7.2.72.sslip.io
